@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  body{
+    background-image:url(pic3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    
+
+  }
+  .zoom {
+  /* padding: 50px; */
+  background-color: rgb(126, 169, 177);
+  transition: transform .2s; /* Animation */
+  width: 100px;
+  height: 50px;
+  /* margin: 0 auto; */
+}
+
+.zoom:hover {
+  transform: scale(1.5); /* (150% zoom)*/
+}
+
+
+
+/* .rectangle {
+  height: 50px;
+  width: 100px;
+  background-color: rgb(106, 180, 223);
+  margin-left: 70px;
+  margin-top: 70px;
+}
+.rectangle2 {
+  height: 25px;
+  width: 50px;
+  background-color: rgb(106, 180, 223);
+  margin-left: 70px;
+  margin-top: 95px;
+}
+
+.rectangle3 {
+  height: 50px;
+  width: 100px;
+  background-color: rgb(106, 180, 223);
+  margin-left: 70px;
+  margin-top: 100px;
+}
+.rectangle4 {
+  height: 50px;
+  width: 100px;
+  background-color: rgb(106, 180, 223);
+  margin-left: 70px;
+  margin-top: 95px;
+}
+.rectangle5 {
+  height: 50px;
+  width: 100px;
+  background-color: rgb(106, 180, 223);
+  margin-left: 205px;
+  margin-top: 65px;
+}
+.rectangle6 {
+  height: 50px;
+  width: 100px;
+  background-color: rgb(106, 180, 223);
+  margin-left: 350px;
+  margin-top: 0%;
+} */
+
+</style>
+</head>
+<body>
+
+
+<a href="http://127.0.0.1:5501/maths.html">
+  <div class="zoom" style="margin-left:  60px; margin-top: 70px;">
+<div class="rectangle">
+<p style="text-align: center; padding-top: 2mm; font-family:Georgia;">Addition<p>
+  
+ </div>
+</div>
+</a>
+<a href="http://127.0.0.1:5501/maths.html">
+  <div class="zoom" style="margin-left: 65px;margin-top: 93px;">
+<div class="rectangle2">
+<p style="text-align: center; padding-top: 2mm;">Addition<p>
+  
+ </div>
+</div>
+</a>
+<a href="http://127.0.0.1:5501/maths.html">
+  <div class="zoom" style="margin-left: 65px;margin-top: 100px;">
+<div class="rectangle3">
+<p style="text-align: center; padding-top: 2mm;">Addition<p>
+  
+ </div>
+</div>
+</a>
+<a href="http://127.0.0.1:5501/maths.html">
+  <div class="zoom" style="margin-left: 65px;margin-top: 100px;">
+<div class="rectangle4">
+<p style="text-align: center; padding-top: 2mm;">Addition<p>
+  
+ </div>
+</div>
+</a>
+<a href="http://127.0.0.1:5501/maths.html">
+  <div class="zoom" style="margin-left: 205px;margin-top: 60px;" >
+<div class="rectangle5">
+<p style="text-align: center; padding-top: 2mm;">Addition<p>
+  
+ </div>
+</div>
+</a>
+<a href="http://127.0.0.1:5501/maths.html">
+  <div class="zoom"  style="margin-left: 430px; margin-bottom: 30%;">
+<!-- <div class="rectangle6"> -->
+<p style="text-align: center; padding-top: 2mm;">Addition<p>
+  
+ </div>
+<!-- </div> -->
+</a>
+
+
+
+
+</body>
+</html>
+ 
